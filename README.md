@@ -1,1 +1,1 @@
-# Full stacl E-Commerce Site
+# Full stack E-Commerce Site
